@@ -1,9 +1,7 @@
 # Asia Travel Agency
 
 Live Link: <a href="https://asia-travel-agency.web.app/">Asia Travel Agency</a> <br/>
-Live Code Link: <a href="https://github.com/Abdullah-Al-Akash/Asia-Travel-Agency-Client">Live Code Link</a> <br/>
-Server Code Link: <a href="https://github.com/Abdullah-Al-Akash/Asia-Travel-Agency-Server">Server Code Link</a>
-<br>
+
 <br>
 <h4>Hello!</h4>
 <h6>Today I have completed a website related Travel Agency from where anyone can choose family package tour for any
@@ -57,10 +55,3 @@ Server Code Link: <a href="https://github.com/Abdullah-Al-Akash/Asia-Travel-Agen
                 And Mainly Node.js for Backend Code
         </li>
 </ul>
-<br>
-<h5>In below, I have shared Home Page Screenshot--</h5>
-<br>
-<img src="https://i.ibb.co/xfkpqwR/asia-travel-agency-home.png" alt="Asia Travel Agency">
-<br>
-<br>
-<h5>Thank You So Much</h5>"# book-trip-server" 
